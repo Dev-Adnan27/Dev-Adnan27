@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Adnan Hasnain, a passionate software developer with a strong background in Web and App Development.</h1>
+<h1 align="center">👋 Hello, I'm Dev Adnan, a passionate software developer with a strong background in Web and App Development.</h1>
 
 ###
 
