@@ -1,20 +1,25 @@
-<h1 align="center">👋 I’m Dev Adnan — building systems, crafting experiences, and chasing the edges of what’s possible.</h1>
+<h1 align="center">👋 I’m Dev Adnan — building, breaking, and reshaping the digital world one system at a time.</h1>
 
 <div align="center">
-  <p>Full-stack developer | Web, App & Game Development | Always exploring the next frontier</p>
+  <p>Full-stack developer | Web, App & Game Development | Driven by curiosity, sharpened by practice</p>
 </div>
 
 ---
 
+<h2 align="center">⚡ What I Build</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Adnan27&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&hide_border=true&custom_title=My%20Stats" height="230" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Adnan27&layout=compact&langs_count=10&theme=discord_old_blurple&hide_border=true" height="150" />
+  <p>
+    Systems that scale.  
+    Interfaces that feel alive.  
+    Apps that think faster than they look.  
+    Games that breathe personality.  
+  </p>
 </div>
 
 ---
 
-<h2 align="center">⚡ Tech I Work With</h2>
+<h2 align="center">🛠️ Tech I Work With</h2>
 
 <div align="center">
 
@@ -41,10 +46,24 @@
 
   <br><br>
 
-  <!-- Games -->
+  <!-- Game Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35"/>
 
+</div>
+
+---
+
+<h2 align="center">🎮 What I’m Exploring</h2>
+
+<div align="center">
+  <p>
+    • Real-time systems  
+    • Multiplayer game logic  
+    • Smarter backend architectures  
+    • High-performance APIs  
+    • Experiments that don’t care about limits  
+  </p>
 </div>
 
 ---
@@ -55,16 +74,16 @@
 
 ---
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="left" height="240" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <div align="right">
 
   <a href="https://www.instagram.com/dev_adnan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&label=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36"/>
   </a>
 
   <a href="mailto:devadnan27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&label=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Reach%20me%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
   </a>
 
 </div>
@@ -73,4 +92,4 @@
 
 ---
 
-<h3 align="center">🔭 Always building. Always learning. Always breaking limits.</h3>
+<h3 align="center">🛤️ Always shipping. Always learning. Always moving toward the next version of myself.</h3>
