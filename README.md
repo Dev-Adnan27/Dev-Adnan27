@@ -68,12 +68,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dev-Adnan27/count.svg?" />
-</div>
-
----
-
 <img align="left" height="240" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <div align="right">
